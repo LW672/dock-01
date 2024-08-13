@@ -15,9 +15,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React laizy monk ! ! !
         </a>
       </header>
+      <p> 
+        <h1>I have changed it twice!</h1>
+      </p>
     </div>
   );
 }
